@@ -1,0 +1,37 @@
+.planta{
+    width: 360px;
+    border-radius: 30px;
+}
+.bloco{
+    margin: 10px;
+    padding: 10px 10px 10px 30px ;
+    background-color: #cccccc;
+    width: 400px;
+    display: inline-block;
+    border-radius: 30px;
+    border: solid 5px;
+    border-color: lightgreen;
+}
+
+.bibi{
+text-align: center;
+background-color: #cccccc;
+margin: 10px 600px;
+width: 200px;
+
+}
+p{
+    margin-left: 20px;
+    padding-bottom: 30px;
+    width: 350px;
+}
+h2{
+    padding-top: 16px;
+    padding-left: 30px;
+    margin: 0;
+    text-align: center;
+
+}
+body{
+    background-image: url("./img/babalu.gif");
+}
